@@ -64,3 +64,4 @@ $.fn.sort_select_box = function(){
    // clearing any selections
    $("#"+this.attr('id')+" option").attr('selected', false);
 }
+// test new code change
