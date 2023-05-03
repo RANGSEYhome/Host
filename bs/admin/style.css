@@ -13,10 +13,7 @@ iframe {width:100%!important; height="480"}
 /* Fix YouTube width and hight */
 iframe[src*="youtu"]{width:100%!important;height:350px!important;}
 
-/* Disable page title */
-.page .post-header .post-title{display: none;}
-
-/* Modify gist and pre code box */
+/* Modify gist and pre code box, change font and hide link to source */
 .gist .blob-code-inner, pre.code-box  {font: normal 16px 'Noto Serif Khmer', serif;}
 .gist .gist-meta {display: none;}
 
