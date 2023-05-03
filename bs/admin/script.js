@@ -11,7 +11,7 @@ for (let i = 0; i < pageTitle.length; i++) {
   pageTitle[i].style.display = 'none';
 }
 
-/* Hide lebel count and delete label prefix */
+/* Hide lebel count amd fix margin */
 // Hide count value
 const spansPostValue = document.querySelectorAll('.post-label span.label-count-value');
 for (let i = 0; i < spansPostValue.length; i++) {
@@ -27,6 +27,7 @@ const aPostLabel = document.querySelectorAll('a.post-label');
 for (let i = 0; i < aPostLabel.length; i++) {
   aPostLabel[i].style.margin= '12px -5px 0 0';
 }
+
 /* Delete label prefix */
 const spansLabelName = document.querySelectorAll('.bg.label-name');
 spansLabelName.forEach(span => {
