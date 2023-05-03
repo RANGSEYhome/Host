@@ -1,6 +1,9 @@
 /* This is a comment in CSS */
 
 
+/* Font Khmer */
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Khmer" rel="stylesheet"/>
+
 /* <style> */
 
 
@@ -9,9 +12,6 @@ iframe {width:100%!important; height="480"}
 
 /* Fix YouTube width and hight */
 iframe[src*="youtu"]{width:100%!important;height:350px!important;}
-
-/* Font Khmer */
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Khmer" rel="stylesheet"/>
 
 /* Disable page title */
 .page .post-header .post-title{display: none;}
