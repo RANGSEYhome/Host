@@ -1,2 +1,2 @@
 # Host
-Code resource for rangseyhome.blogspot.com
+Repository for hosting code resources
