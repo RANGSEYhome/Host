@@ -11,30 +11,6 @@ for (let i = 0; i < pageTitle.length; i++) {
   pageTitle[i].style.display = 'none';
 }
 
-/* Fix all iframe to fit Width */
-var iframes = document.getElementsByTagName('iframe');
-for (var i = 0; i < iframes.length; i++) {
-  iframes[i].style.width = '100%';
-  iframes[i].style.height = '480px';
-}
-
-/* Fix YouTube width and hight */
-var iframeYouTube = document.querySelectorAll('iframe[src*="youtu"]');
-for (var i = 0; i < iframeYouTube.length; i++) {
-  iframeYouTube[i].style.width = '100%';
-  iframeYouTube[i].style.height = '350px';
-}
-
-/* Modify gist and pre code box, change font and hide link to source */
-var gistCodeBox = document.querySelectorAll('.gist .blob-code-inner, pre.code-box');
-for (var i = 0; i < gistCodeBox.length; i++) {
-  gistCodeBox[i].style.font = 'normal 16px "Noto Serif Khmer", serif';
-}
-var gistMeta = document.querySelectorAll('.gist .gist-meta');
-for (var i = 0; i < gistMeta.length; i++) {
-  gistMeta[i].style.font = 'normal 16px "Noto Serif Khmer", serif';
-}
-
 /* Hide lebel count amd fix margin */
 // Hide count value
 const spansPostValue = document.querySelectorAll('.post-label span.label-count-value');
