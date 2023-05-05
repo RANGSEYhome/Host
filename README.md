@@ -1,2 +1,2 @@
 # Host
-Repository for hosting code resources
+This repository is for hosting code resources
