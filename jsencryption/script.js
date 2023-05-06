@@ -1,6 +1,6 @@
+/* <script > */
 /* JavaScript Encryption and Decryption 2.0 */
 
-<script >
 	var element = document.querySelector('#mySetting');
 var styles = getComputedStyle(element);
 var protectContent = styles.getPropertyValue('--jsEncryption');
@@ -332,4 +332,4 @@ if (protectContent == 1) {
 	}));
 
 }
-</script>
+/* </script> */
