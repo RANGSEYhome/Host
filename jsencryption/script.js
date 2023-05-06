@@ -1,7 +1,7 @@
 /* <script > */
 /* JavaScript Encryption and Decryption 2.0 */
 
-if (window.jsencryption == true) {
+if (window.jsEncryption == true) {
 
 	var decryptElementId;
 
