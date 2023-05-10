@@ -20,6 +20,9 @@ show_wpcp_message('This is message', t3s);
 show_wpcp_message(info + 'This is message', t3s);
 - With header and message with muliple lines
 show_wpcp_message(info + 'This is message.<br>This is another line of message.', t3s);
+
+Note: This message box need Font Awesome. Please attach link to Font Awesome.
+<script src="https://use.fontawesome.com/releases/v5.10.0/css/v4-shims.css"></script>
 */
  
 var divProtWebCont = document.createElement('div');
