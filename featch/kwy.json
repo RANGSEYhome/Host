@@ -1,0 +1,26 @@
+[
+	"lan: English", "lan: Khmer",
+
+	"nws: Global", "nws: Local",
+
+	"ent: Stories", "ent: Poems", "ent: Jokes",
+
+	"kwl: Tips", "kwl: Quotes", "kwl: Reviews",
+
+	"eli.lan: English", "eli.lan: Khmer",
+	
+	"eli.typ: eBooks", "eli.typ: Audios", "eli.typ: Videos", "eli.typ: Other Resources",
+	
+	"eli.pub: Mindbooks", "eli.pub: Sipar",
+	
+	"eli.aut: Rangsey HENG",
+	
+	"eli.edt: Rangsey HENG",
+	
+	"eli.sbn: ISBN", "eli.doi: DOI", "eli.tag: Tag",
+
+	"rph.aut: ហេង រង្សី", "rph.aut: Rangsey HENG", "rph.aut: ផលព្រឹក្ស", "rph.aut: Rangsey P. HENG", "rph.aut: ប៉ាកការាត្រី", "rph.aut: Insightune Moderator", "rph.aut: Caterpillar", "rph.aut: ហេង រង្សី ស្មេរខ្មែរ", "rph.aut: ហទយៈ",
+	"rph.tag: Tag",
+	
+	"tag: my quotes1", "tag: my awards", "tag: my work", "tag: dhamma home", "tag: libradio", "tag: insightune", "tag: mental health advocate kh", "tag: cambodia book fair", "tag: insightune", "tag: insightune", "tag: insightune", "tag: insightune", "tag: insightune", "tag: insightune", "tag: just add"
+]
