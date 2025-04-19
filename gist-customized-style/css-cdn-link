@@ -1,5 +1,13 @@
 Migrating from GitHub to jsDelivr
 https://www.jsdelivr.com/github
+Load any GitHub release, commit, or branch:
+/gh/user/repo@version/file
+Load exact version:
+/gh/jquery/jquery@3.1.0/dist/jquery.min.js
+/gh/jquery/jquery@32b00373b3f42e5cdcb709df53f3b08b7184a944/dist/jquery.min.js
+Use a version range instead of an exact version (only works with valid semver versions):
+/gh/jquery/jquery@3/dist/jquery.min.js
+/gh/jquery/jquery@3.1/dist/jquery.min.js
 
 Fully Customized
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/RANGSEYhome/Host@4a5215e7dce05505aca6ffbefe91a48a9b68e796/Gist%20Customized%20Style/Full%20Customized.css" />
