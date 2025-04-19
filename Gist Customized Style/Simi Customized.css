@@ -1,0 +1,23 @@
+/* Modify gist and pre code box, change font */
+
+  /* Gist font */
+  .gist .blob-code-inner, pre.code-box  {
+    font: normal 16px 'Noto Serif Khmer', serif !important;
+  }
+  /* Gist table padding */
+  .gist tbody tr:first-child td {
+    padding-top: 20px !important;
+  }
+  .gist tbody tr:last-child td {
+    padding-bottom: 20px !important;
+  }
+  /* Gist Overflow */
+  .gist table td {
+    overflow-wrap: break-word !important;
+    /* word-break: break-all !important; */
+    white-space: normal !important;
+  }
+  /* Gist Dark Mode */
+  [data-mode="dark"] .gist .blob-code-inner {
+    color: #9ca3af !important;
+  }
