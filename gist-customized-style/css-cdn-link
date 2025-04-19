@@ -10,7 +10,7 @@ Use a version range instead of an exact version (only works with valid semver ve
 /gh/jquery/jquery@3.1/dist/jquery.min.js
 
 Fully Customized
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/RANGSEYhome/Host@4a5215e7dce05505aca6ffbefe91a48a9b68e796/Gist%20Customized%20Style/Full%20Customized.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/RANGSEYhome/Host/gist-customized-style/full-customized.css" />
 
 Simi Customized
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/RANGSEYhome/Host@4a5215e7dce05505aca6ffbefe91a48a9b68e796/Gist%20Customized%20Style/Simi%20Customized.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/RANGSEYhome/Host/gist-customized-style/simi-customized.css" />
