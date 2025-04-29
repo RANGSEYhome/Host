@@ -1,4 +1,4 @@
-
+[
 	"[comment] Common Sub Labels",
 	"Nws: Global", "nws: Local",
 	"Ent: Stories", "ent: Poems", "ent: Jokes",
@@ -32,5 +32,6 @@
 	"dfp: djr", "dfp: rec", "dfp: rpt",
 	"abt: qte", "abt: bio",
 	"res: fri", "src: alb", "src: lnk",
-	"lbl: សៀវភៅនិងការអាន", "lbl: កំណាព្យ", "lbl: Coursework", "lbl: Letter1"
+	"lbl: សៀវភៅនិងការអាន", "lbl: កំណាព្យ", "lbl: Coursework", "lbl: Letter"
 
+]
