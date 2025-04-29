@@ -1,8 +1,8 @@
 [
 	"[comment]: Common Sub Labels",
 	"Nws: Global", "Nws: Local",
-	"Ent: Stories", "Ent: Poems", "Ent: Jokes",
-	"Kwl: Tips", "Kwl: Quotes", "Kwl: Reviews",
+	"Ent: Story", "Ent: Poem", "Ent: Joke",
+	"Kwl: Tip", "Kwl: Quote", "Kwl: Review",
 	"[comment]: Library Sub Labels",
 	"Lib: eBook", "lib: Audio", "lib: Video", "lib: Image", "lib: Other",
 	"[comment]: RPH Sub Labels: Portfolio, Testimonial, Digital Footprint, About Me, Resource",
