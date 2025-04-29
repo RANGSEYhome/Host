@@ -1,12 +1,12 @@
 [
 	"[comment]: Common Sub Labels",
-	"Nws: Global", "Nws: Local",
-	"Ent: Story", "Ent: Poem", "Ent: Joke",
-	"Kwl: Tip", "Kwl: Quote", "Kwl: Review",
+	"nws: Global", "nws: Local",
+	"ent: Story", "ent: Poem", "ent: Joke",
+	"kwl: Tip", "kwl: Quote", "kwl: Review",
 	"[comment]: Library Sub Labels",
-	"Lib: eBook", "lib: Audio", "lib: Video", "lib: Image", "lib: Other",
+	"lib: eBook", "lib: Audio", "lib: Video", "lib: Image", "lib: Other",
 	"[comment]: RPH Sub Labels: Portfolio, Testimonial, Digital Footprint, About Me, Resource",
-	"Rph: prt", "Rph: tes", "Rph: dfp", "Rph: abt", "Rph: res",
+	"rph: prt", "rph: tes", "rph: dfp", "rph: abt", "rph: res",
 
 	"[comment]: Common Additional Tags",
 	"evn: ទិវាជាតិអំណាន", "evn: ពិព័រណ៍សៀវភៅកម្ពុជា",
