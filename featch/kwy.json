@@ -3,9 +3,9 @@
 	"Nws: Global", "nws: Local",
 	"Ent: Stories", "ent: Poems", "ent: Jokes",
 	"Kwl: Tips", "kwl: Quotes", "kwl: Reviews",
-	"[comment] Library Sub Labels",
+	"[comment]: Library Sub Labels",
 	"Lib: eBook", "lib: Audio", "lib: Video", "lib: Image", "lib: Other",
-	"[comment] RPH Sub Labels: Portfolio, Testimonial, Digital Footprint, About Me, Resource",
+	"[comment]: RPH Sub Labels: Portfolio, Testimonial, Digital Footprint, About Me, Resource",
 	"Rph: prt", "Rph: tes", "Rph: dfp", "Rph: bio", "Rph: res",
 
 	"[comment]: Common Additional Tags",
@@ -33,5 +33,4 @@
 	"abt: qte", "abt: bio",
 	"res: fri", "src: alb", "src: lnk",
 	"lbl: សៀវភៅនិងការអាន", "lbl: កំណាព្យ", "lbl: Coursework", "lbl: Letter"
-
 ]
