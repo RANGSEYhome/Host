@@ -22,13 +22,11 @@
 	"ver: KH",
 	"kwd: ស្នេហា",
 
-	"[comment] RPH Additional Tags:
-	Project, Publication, Misc
-	What People Say, In the Media, Award
-	DJR, Record, Report
-	Quote, Bio
-	Free Issue, Album, Link
-	",
+	"[comment] RPH Additional Tags: Project, Publication, Misc",
+	"[comment] RPH Additional Tags: What People Say, In the Media, Award",
+	"[comment] RPH Additional Tags: DJR, Record, Report",
+	"[comment] RPH Additional Tags:Quote, Bio",
+	"[comment] RPH Additional Tags: Free Issue, Album, Link",
 	"prt: prj", "prt: pub", "prt: msc",
 	"tes: wps", "tes: inm", "tes: awd",
 	"dfp: djr", "dfp: rec", "dfp: rpt",
