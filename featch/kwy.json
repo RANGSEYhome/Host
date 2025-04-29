@@ -1,26 +1,38 @@
 [
-	"lan: English", "lan: Khmer",
+	"[comment] Common Sub Labels",
+	"Nws: Global", "nws: Local",
+	"Ent: Stories", "ent: Poems", "ent: Jokes",
+	"Kwl: Tips", "kwl: Quotes", "kwl: Reviews",
+	"[comment] Library Sub Labels",
+	"Lib: eBook", "lib: Audio", "lib: Video", "lib: Image", "lib: Other",
+	"[comment] RPH Sub Labels: Portfolio, Testimonial, Digital Footprint, About Me, Resource",
+	"Rph: prt", "Rph: tes", "Rph: dfp", "Rph: bio", "Rph: res",
 
-	"nws: Global", "nws: Local",
+	"[comment] Common Additional Tags",
+	"evn: ទិវាជាតិអំណាន", ​"evn: ​ពិព័រណ៍សៀវភៅកម្ពុជា",
+	"loc: Cambodia",
+	"ppl: Rangsey",
+	"org: YouTube",
+	"tag: Mindfulness",
+	"lan: EN", "lan: KH",
 
-	"ent: Stories", "ent: Poems", "ent: Jokes",
+	"[comment] Library Additional Tags",
+	"pub: Mind Books",
+	"aut: គឹម ចាន់ណា",
+	"ver: KH",
+	"kwd: ស្នេហា",
 
-	"kwl: Tips", "kwl: Quotes", "kwl: Reviews",
-
-	"eli.lan: English", "eli.lan: Khmer",
-	
-	"eli.typ: eBooks", "eli.typ: Audios", "eli.typ: Videos", "eli.typ: Other Resources",
-	
-	"eli.pub: Mindbooks", "eli.pub: Sipar",
-	
-	"eli.aut: Rangsey HENG",
-	
-	"eli.edt: Rangsey HENG",
-	
-	"eli.sbn: ISBN", "eli.doi: DOI", "eli.tag: Tag",
-
-	"rph.aut: ហេង រង្សី", "rph.aut: Rangsey HENG", "rph.aut: ផលព្រឹក្ស", "rph.aut: Rangsey P. HENG", "rph.aut: ប៉ាកការាត្រី", "rph.aut: Insightune Moderator", "rph.aut: Caterpillar", "rph.aut: ហេង រង្សី ស្មេរខ្មែរ", "rph.aut: ហទយៈ",
-	"rph.tag: Tag",
-	
-	"tag: my quotes1", "tag: my awards", "tag: my work", "tag: dhamma home", "tag: libradio", "tag: insightune", "tag: mental health advocate kh", "tag: cambodia book fair", "tag: insightune", "tag: insightune", "tag: insightune", "tag: insightune", "tag: insightune", "tag: insightune", "tag: just add"
+	"[comment] RPH Additional Tags:
+	Project, Publication, Misc
+	What People Say, In the Media, Award
+	DJR, Record, Report
+	Quote, Bio
+	Free Issue, Album, Link
+	",
+	"prt: prj", "prt: pub", "prt: msc",
+	"tes: wps", "tes: inm", "tes: awd",
+	"dfp: djr", "dfp: rec", "dfp: rpt",
+	"abt: qte", "abt: bio",
+	"res: fri", "src: alb", "src: lnk",
+	"lbl: សៀវភៅនិងការអាន", "lbl: កំណាព្យ", "lbl: Coursework", "lbl: Letter",
 ]
