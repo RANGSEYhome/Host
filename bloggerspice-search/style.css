@@ -58,6 +58,7 @@
     box-shadow: 0 0 0 1px inherit;
     opacity: 0.9;
     transition: all 0.6s;
+    overflow: hidden;
   }
   #feedContainer .inner:hover {
     opacity: 1;
