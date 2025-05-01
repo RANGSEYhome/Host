@@ -131,7 +131,7 @@
       width: 100%;
     }
     #feedContainer .news-text {
-      display: none;
+      /* display: none; */
     }
   }
   [data-mode="dark"] #feedContainer .inner {
