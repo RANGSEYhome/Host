@@ -10,7 +10,7 @@
     { 
       id: 2, 
       title: "📚 Reading Challenge 2026", 
-      content: "I'm currently at 21 books out of 60! Follow my reading journey.<br><br>Recommend a book: <a href='/p/contact.html' target='_blank'>Write ME</a>", 
+      content: "I'm currently at 21 books out of 60! Follow my reading journey.<br><br>Recommend a book: <a href='/p/contact.html' target='_blank'>Write Me</a>", 
       dateStr: "03/04/2026" 
     },
   ]
