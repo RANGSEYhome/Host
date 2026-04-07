@@ -1,17 +1,14 @@
-{
-  "version": "1.0.0",
-  "messages": [
-    { 
-      id: 1, 
-      title: "📬 Welcome to RANGSEYhome!", 
-      content: "Thanks for visiting! You'll receive occasional updates and messages here 💌<br><br>Visit our <a href='https://rangseyhome.insightune.com/p/about.html' target='_blank'>About Page</a> for more info.", 
-      dateStr: "01/04/2026" 
-    },
-    { 
-      id: 2, 
-      title: "📚 Reading Challenge 2026", 
-      content: "I'm currently at 21 books out of 60! Follow my reading journey.<br><br>Recommend a book: <a href='/p/contact.html' target='_blank'>Write Me</a>", 
-      dateStr: "03/04/2026" 
-    },
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "📬 Welcome to RANGSEYhome!",
+    "content": "Thanks for installing the app. You'll receive occasional updates here 💌<br><br>Visit our <a href='https://rangseyhome.insightune.com/p/about.html' target='_blank'>About Page</a> for more info.",
+    "dateStr": "01/04/2026"
+  },
+  {
+    "id": 2,
+    "title": "📚 Reading Challenge 2026",
+    "content": "I'm currently at 21 books out of 60! Follow my reading journey.<br><br>Recommend a book: <a href='/p/contact.html' target='_blank'>Write Me</a>",
+    "dateStr": "03/04/2026"
+  }
+]
