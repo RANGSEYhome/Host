@@ -1,0 +1,67 @@
+{
+  "name": "ផ្ទះរង្សី — RANGSEYhome",
+  "short_name": "RANGSEYhome",
+  "description": "RANGSEYhome — Personal blog & portfolio by Rangsey P. HENG. Articles on Lifestyle, Personal Growth, Well-being, Happiness, and Storytelling.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#55c489",
+  "background_color": "#efefef",
+  "scope": "/",
+  "lang": "km",
+  "categories": ["lifestyle", "personalization", "education"],
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s72/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s96/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s128/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s144/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s152/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s192/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s256/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s384/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s512/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s1024/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
