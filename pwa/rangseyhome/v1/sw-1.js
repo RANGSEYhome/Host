@@ -2,7 +2,7 @@
 // Version: 2.8.1
 
 const CACHE_NAME = 'rangseyhome-v2.8.1';
-const BLOG_URL = 'https://your-blog.blogspot.com'; // CHANGE THIS to your actual Blogger URL
+const BLOG_URL = 'https://rangseyhome.insightune.com';
 
 // Files to cache for offline access
 const STATIC_CACHE_URLS = [
