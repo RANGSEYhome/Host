@@ -1,0 +1,16 @@
+{
+  "name": "ផ្ទះរង្សី — RANGSEYhome",
+  "short_name": "RANGSEYhome",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#55c489",
+  "background_color": "#efefef",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOvvrbwyO4ChctEyMSnS40CZB8r1MMEc8pNYFlpZp7A3kVyyKcimzGs5XlKyeXw8d-wfFiP6BxSjaKQSZdtl48Pt4wtL6b6Z7GwGrbQycIB8bPMJtptoP4-Ta0PpqmmZSjdiyD_WJ5Tm1A6DlvPHQwg7xO6GkuBUGyWU5vh6MWllu7ILhlsF20rvVhG_6U/s2186/Phalabriksa%20-%20Circle%20Green.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
