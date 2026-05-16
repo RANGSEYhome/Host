@@ -1,4 +1,4 @@
-[ v001
+[ v002
 	"lan: English", "lan: Khmer",
 
 	"nws: Global", "nws: Local",
